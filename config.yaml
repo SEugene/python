@@ -1,0 +1,13 @@
+my_project_new/settings/__init__.py
+my_project_new/settings/dev.py
+my_project_new/settings/prod.py
+my_project_new/mainapp/__init__.py
+my_project_new/mainapp/models.py
+my_project_new/mainapp/views.py
+my_project_new/mainapp/templates/mainapp/base.html
+my_project_new/mainapp/templates/mainapp/index.html
+my_project_new/authapp/__init__.py
+my_project_new/authapp/models.py
+my_project_new/authapp/views.py
+my_project_new/authapp/templates/authapp/base.html
+my_project_new/authapp/templates/authapp/index.html
